@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>¡Bienvenido a GDI!</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #f5f5f5 0%, #ffffff 100%);
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #201FA7 0%, #2d2bb5 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 20px;
+            letter-spacing: 0.5px;
+        }
+
+        .claim {
+            font-size: 16px;
+            font-style: italic;
+            font-weight: 500;
+            opacity: 0.95;
+            line-height: 1.5;
+        }
+
+        .content {
+            padding: 40px 30px;
+        }
+
+        .intro {
+            background: #f0eeff;
+            border-left: 4px solid #201FA7;
+            padding: 20px;
+            border-radius: 6px;
+            margin-bottom: 35px;
+            font-size: 14px;
+            line-height: 1.8;
+        }
+
+        .intro strong {
+            color: #201FA7;
+        }
+
+        .steps-section h2 {
+            color: #201FA7;
+            font-size: 24px;
+            margin-bottom: 25px;
+            font-weight: 600;
+        }
+
+        .step {
+            display: flex;
+            margin-bottom: 20px;
+            align-items: flex-start;
+        }
+
+        .step-number {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            min-width: 40px;
+            background: #201FA7;
+            color: white;
+            border-radius: 50%;
+            font-weight: 700;
+            font-size: 16px;
+            margin-right: 18px;
+            margin-top: 2px;
+        }
+
+        .step-content {
+            flex: 1;
+            padding-top: 4px;
+        }
+
+        .step-content strong {
+            color: #201FA7;
+            font-size: 15px;
+        }
+
+        .step-content p {
+            font-size: 14px;
+            color: #555;
+            margin-top: 4px;
+        }
+
+        .result-section {
+            background: #e8f4f8;
+            border: 2px solid #201FA7;
+            border-radius: 8px;
+            padding: 25px;
+            margin-top: 35px;
+            text-align: center;
+        }
+
+        .result-section p {
+            font-size: 15px;
+            color: #333;
+            line-height: 1.7;
+        }
+
+        .result-section strong {
+            color: #201FA7;
+            font-size: 16px;
+        }
+
+        .footer-note {
+            margin-top: 35px;
+            padding-top: 25px;
+            border-top: 1px solid #e0e0e0;
+            font-size: 12px;
+            color: #999;
+            text-align: center;
+        }
+
+        .emoji {
+            font-size: 24px;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>¡Bienvenido a GDI!</h1>
+        </div>
+
+        <div class="content">
+            <div class="intro">
+                <p><strong>📝 Estás en un documento que se encuentra <strong>en edición</strong> y es parte de tu entorno de prueba en GDI (versión alfa). Úsalo para familiarizarte con la plataforma.</strong></p>
+            </div>
+
+            <hr style="border: none; border-top: 2px solid #e0e0e0; margin: 35px 0;">
+
+            <div class="steps-section">
+                <h2>🚀 Probá GDI en 4 pasos simples:</h2>
+
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <strong>Edita este documento</strong>
+                        <p>Hacé clic aquí y agregá tu texto o notas. Este documento es tuyo para practicar.</p>
+                    </div>
+                </div>
+
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <strong>Buscá en el panel lateral derecho la sección Firmantes</strong>
+                        <p>Ahí encontrarás las opciones de colaboración.</p>
+                    </div>
+                </div>
+
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <strong>Agregá un firmante</strong>
+                        <p>Ingresá el email de un compañero de trabajo para invitarlo a testear GDI.</p>
+                    </div>
+                </div>
+
+                <div class="step">
+                    <div class="step-number">4</div>
+                    <div class="step-content">
+                        <strong>Enviá la solicitud de firma</strong>
+                        <p>Tu compañero recibirá un email al instante para firmar este documento.</p>
+                    </div>
+                </div>
+            </div>
+
+            <hr style="border: none; border-top: 2px solid #e0e0e0; margin: 35px 0;">
+
+            <div class="steps-section">
+                <h2>✅ ¿Qué pasa después?</h2>
+                <p style="margin-bottom: 20px;">Tu compañero recibirá una invitación por email para:</p>
+                <ul style="margin-left: 20px; margin-bottom: 20px;">
+                    <li style="margin-bottom: 8px;">Testear GDI</li>
+                    <li style="margin-bottom: 8px;">Firmar este documento</li>
+                    <li style="margin-bottom: 8px;">Comenzar a colaborar</li>
+                </ul>
+                <p style="font-weight: 600; color: #201FA7; font-size: 16px;"><strong>¡Así de simple es trabajar colaborativamente en GDI!</strong></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
