@@ -1,34 +1,17 @@
-# ✉️ Invitación a firmar un documento en GDI (versión ALFA)
+# Te están invitando a firmar un documento en GDI
 
-**{{sender_email}}** te está invitando a firmar un documento en GDI.
+**{{sender_email}}** te invitó a firmar un documento en GDI, la nueva plataforma de gestión documental inteligente para las municipalidades del futuro.
 
-GDI (Gestión Documental Inteligente) es una plataforma que permite gestionar documentos y expedientes con flujos colaborativos para trabajar en simultáneo con tu equipo.
-
-## Como usuario vas a poder:
-
-- Firmar este documento de forma simulada
-- Crear y editar documentos colaborativamente
-- Gestionar expedientes y solicitar actuaciones entre usuarios
-- Explorar las funcionalidades del sistema
-
----
-
-## ⚠️ IMPORTANTE – Estás en una versión de prueba (ALFA):
-
-- Ninguna acción tiene validez legal
-- No se generan firmas digitales reales
-- No cargues información personal verdadera
-- Usá datos ficticios para proteger tu privacidad
-
----
 
 ## 🔗 [FIRMAR DOCUMENTO]({{document_link}})
 
-**Tu participación nos ayuda a construir el futuro de la gestión documental.**
+*Entorno de prueba - Usá datos ficticios*
 
+
+**GDI** es una plataforma que transforma los procesos administrativos rígidos en flujos de trabajo dinámicos y colaborativos. Su principal objetivo es eliminar la burocracia, permitiendo que distintas áreas trabajen en simultáneo, lo que reduce drásticamente los tiempos.
 ---
 
-Si tenés problemas para acceder, copiá y pegá este enlace en tu navegador:
+Si tenés problemas para acceder:
 `{{document_link}}`
 
 ---
