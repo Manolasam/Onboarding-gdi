@@ -6,13 +6,10 @@
 
 {{sender_email}} te invitó a **conocer GDI**, la plataforma de **Gestión Documental Inteligente** para las municipalidades del futuro.  
 
-Ingresá al enlace para **explorar las funcionalidades del sistema** y descubrir cómo se crean documentos, expedientes y flujos de trabajo inteligentes en GDI.  
-
+Ingresá para descubrir cómo se crean expedientes, documentos y flujos de trabajo inteligentes.
 🧪 Estás accediendo a una versión de **testeo** —usá datos ficticios—  
 
-🔗 **[INGRESAR]({{document_link}})**  
-
-Si tenés problemas para ingresar: {{document_link}}  
+🔗 [EXPLORAR GDI]
 
 ---
 
@@ -23,6 +20,7 @@ GDI es una plataforma **open source con IA nativa** que transforma la gestión p
 🌐 [gdilatam.com](https://gdilatam.com)  
 
 © 2025 GDI – Gestión Documental Inteligente
+
 
 
 
