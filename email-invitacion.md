@@ -17,11 +17,12 @@ Ingresá para descubrir cómo se crean expedientes, documentos y flujos de traba
 GDI es una plataforma **open source con IA nativa** que transforma la gestión pública, haciendo los procesos más ágiles, colaborativos y eficientes.
 
 **Seguinos en:**  
-[LinkedIn](https://www.linkedin.com/company/gdilatam) · [YouTube](https://www.youtube.com/@Gesti%C3%B3nDocumentalInteligente) · [Instagram](https://www.instagram.com/gdilatam) · [GitHub](https://github.com/gdilatam)
+[LinkedIn](https://www.linkedin.com/company/gdilatam) · [YouTube](https://www.youtube.com/@Gesti%C3%B3nDocumentalInteligente) · [Instagram](https://www.instagram.com/gdi.latam) · [GitHub](https://github.com/GestionDocumentalInteligente)
 
 🌐 [gdilatam.com](https://gdilatam.com)
 
 © 2025 GDI – Gestión Documental Inteligente
+
 
 
 
