@@ -24,3 +24,4 @@ GDI es una plataforma **open source con IA nativa** que transforma la gestión p
 
 
 
+
