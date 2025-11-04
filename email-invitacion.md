@@ -8,7 +8,7 @@
 *Entorno de prueba - Usá datos ficticios*
 
 
-**GDI** es una plataforma que transforma los procesos administrativos rígidos en flujos de trabajo dinámicos y colaborativos. Su principal objetivo es eliminar la burocracia, permitiendo que distintas áreas trabajen en simultáneo, lo que reduce drásticamente los tiempos.
+**GDI** es una plataforma open source con IA nativa para la gestión de expedientes y documentos municipales. Desbloqueá tu municipio de la burocracia con expedientes colaborativos y flujos de trabajo potenciados por IA.
 ---
 
 Si tenés problemas para acceder:
@@ -26,3 +26,4 @@ Si tenés problemas para acceder:
 **Website:** [gdilatam.com](https://gdilatam.com)
 
 © 2025 GDI – Gestión Documental Inteligente
+
