@@ -12,7 +12,7 @@ Ingresá al enlace para **explorar las funcionalidades del sistema** y descubrir
 
 🔗 **INGRESAR**  
 
-Si tenés problemas para ingresar: {{document_link}}  
+Si tenés problemas para acceder copia: {{document_link}}  
 
 ---
 
@@ -23,6 +23,7 @@ GDI es una plataforma **open source con IA nativa** que transforma la gestión p
 🌐 [gdilatam.com](https://gdilatam.com)  
 
 © 2025 GDI – Gestión Documental Inteligente
+
 
 
 
