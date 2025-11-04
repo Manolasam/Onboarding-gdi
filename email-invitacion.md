@@ -1,15 +1,15 @@
-**Asunto:** Te invitaron a testear GDI  
+**Asunto:** {{sender_email}} te invitó a conocer GDI 🧪  
 
 ---
 
-Te invitaron a **testear GDI**, la plataforma de **Gestión Documental Inteligente** para las municipalidades del futuro.  
+{{sender_email}} te invitó a **probar las funcionalidades de GDI**, la plataforma de **Gestión Documental Inteligente** para las municipalidades del futuro.  
 
 🧪 Estás accediendo al **entorno de prueba** —usá datos ficticios—  
-Para empezar, podés **firmar el documento de prueba** que te invitaron a firmar:  
+Para empezar, firmá el siguiente documento y descubrí cómo funciona el sistema:  
 
 🔗 **FIRMAR DOCUMENTO**  
 
-Si tenés problemas para acceder: {{document_link}}  
+Si tenés problemas para ingresar: {{document_link}}  
 
 ---
 
@@ -20,7 +20,6 @@ GDI es una plataforma **open source con IA nativa** que moderniza la gestión p�
 🌐 [gdilatam.com](https://gdilatam.com)  
 
 © 2025 GDI – Gestión Documental Inteligente
-
 
 
 
