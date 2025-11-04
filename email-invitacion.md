@@ -1,3 +1,4 @@
+
 **Asunto:** {{sender_email}} te invitó a conocer GDI 🧪  
 ---
 ¡Hola! 👋  
@@ -11,6 +12,8 @@ GDI es una plataforma **open source con IA nativa** que transforma la gestión p
 [LinkedIn](https://www.linkedin.com/company/gdilatam) · [YouTube](https://www.youtube.com/@Gesti%C3%B3nDocumentalInteligente) · [Instagram](https://www.instagram.com/gdilatam) · [GitHub](https://github.com/gdilatam)  
 🌐 [gdilatam.com](https://gdilatam.com)  
 © 2025 GDI – Gestión Documental Inteligente
+
+
 
 
 
