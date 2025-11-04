@@ -10,17 +10,22 @@ Ingresá al enlace para **explorar las funcionalidades del sistema** y descubrir
 
 🧪 Estás accediendo a una versión de **testeo** —usá datos ficticios—  
 
-🔗 **INGRESAR**  
+🔗 **[INGRESAR]({{document_link}})**  
+
+Si tenés problemas para ingresar: {{document_link}}  
 
 ---
 
 GDI es una plataforma **open source con IA nativa** que transforma la gestión pública, haciendo los procesos más ágiles, colaborativos y eficientes.  
 
 **Seguinos en:**  
-[LinkedIn] · [YouTube] · [Instagram] · [GitHub]  
+[LinkedIn](https://www.linkedin.com/company/gdilatam) · [YouTube](https://www.youtube.com/@Gesti%C3%B3nDocumentalInteligente) · [Instagram](https://www.instagram.com/gdilatam) · [GitHub](https://github.com/gdilatam)  
 🌐 [gdilatam.com](https://gdilatam.com)  
 
 © 2025 GDI – Gestión Documental Inteligente
+
+
+
 
 
 
