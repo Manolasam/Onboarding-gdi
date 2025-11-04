@@ -1,29 +1,25 @@
-# Te están invitando a firmar un documento en GDI
-
-**{{sender_email}}** te invitó a firmar un documento en GDI, la nueva plataforma de gestión documental inteligente para las municipalidades del futuro.
-
-
-## 🔗 [FIRMAR DOCUMENTO]({{document_link}})
-
-*Entorno de prueba - Usá datos ficticios*
-
-
-**GDI** es una plataforma open source con IA nativa para la gestión de expedientes y documentos municipales. Desbloqueá tu municipio de la burocracia con expedientes colaborativos y flujos de trabajo potenciados por IA.
----
-
-Si tenés problemas para acceder:
-`{{document_link}}`
+**Asunto:** Te invitaron a testear GDI 🧪  
 
 ---
 
-### Seguinos en:
+Te invitaron a **testear GDI**, la plataforma de **Gestión Documental Inteligente** para las municipalidades del futuro.  
 
-- [LinkedIn](https://linkedin.com/company/gdilatam)
-- [YouTube](https://youtube.com/@GestiónDocumentalInteligente)
-- [Instagram](https://instagram.com/gdi.latam)
-- [GitHub](https://github.com/GestionDocumentalInteligente)
+🧪 Estás accediendo al **entorno de prueba** —usá datos ficticios—  
+Para empezar, podés **firmar el documento de prueba** que te invitaron a firmar:  
 
-**Website:** [gdilatam.com](https://gdilatam.com)
+🔗 **FIRMAR DOCUMENTO**  
+
+Si tenés problemas para acceder: {{document_link}}  
+
+---
+
+GDI es una plataforma **open source con IA nativa** que moderniza la gestión pública con expedientes colaborativos y flujos de trabajo inteligentes.  
+
+**Seguinos en:**  
+[LinkedIn] · [YouTube] · [Instagram] · [GitHub]  
+🌐 [gdilatam.com](https://gdilatam.com)  
 
 © 2025 GDI – Gestión Documental Inteligente
+
+
 
