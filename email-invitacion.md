@@ -1,4 +1,4 @@
-**Asunto:** Te invitaron a testear GDI 🧪  
+**Asunto:** Te invitaron a testear GDI  
 
 ---
 
@@ -20,6 +20,7 @@ GDI es una plataforma **open source con IA nativa** que moderniza la gestión p�
 🌐 [gdilatam.com](https://gdilatam.com)  
 
 © 2025 GDI – Gestión Documental Inteligente
+
 
 
 
